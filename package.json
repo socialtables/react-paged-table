@@ -1,0 +1,19 @@
+{
+  "name": "react-paged-table",
+  "version": "0.0.0",
+  "description": "react table with in memory paging",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "keywords": [
+    "react",
+    "pages",
+    "table"
+  ],
+  "author": "Christopher Gillis",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.11.2"
+  }
+}
